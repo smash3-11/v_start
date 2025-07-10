@@ -9,7 +9,7 @@
 //     <a href="index.html" class="active">Транзакции</a>
 //   </nav>
 //   <div class="left">
-//     <a href="home.html" class="user-email">alexadams@google.com</a>
+//     <a href="#" class="user-email">alexadams@google.com</a>
 //     <img src="login.png" alt="">
 //   </div>
 //     `;

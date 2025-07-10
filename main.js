@@ -1,6 +1,5 @@
 import axios from 'axios';
-import { defineConfig } from 'vite';
-// import { renderLayout } from './layouts/default.js';
+
 
 const pages = [
     {
